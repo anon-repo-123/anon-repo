@@ -9,3 +9,5 @@ tqdm
 nltk
 pymed
 xmltodict
+sentence-transformers
+openai
