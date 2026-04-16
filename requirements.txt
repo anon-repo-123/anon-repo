@@ -11,3 +11,4 @@ pymed
 xmltodict
 sentence-transformers
 openai
+new-feature
