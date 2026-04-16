@@ -1,1 +1,11 @@
-
+requests
+pyyaml
+streamlit
+pandas
+numpy
+ragas
+beautifulsoup4
+tqdm
+nltk
+pymed
+xmltodict
